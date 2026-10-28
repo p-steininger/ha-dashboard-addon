@@ -1,0 +1,7 @@
+configuration:
+  allow_control:
+    name: Steuerung erlauben
+    description: Schalter, Lichter, Schloss, Klima, Medien usw. aus dem Dashboard bedienen (nur freigegebene Dienste).
+  sidebar:
+    name: Seitenleiste (Tablet/Desktop)
+    description: "a = schmale Glas-Leiste, b = erweitert mit Räumen & Status, c = Widget-Spalte. Per URL ?sidebar=a|b|c überschreibbar."

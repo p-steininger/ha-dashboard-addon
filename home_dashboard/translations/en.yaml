@@ -1,0 +1,7 @@
+configuration:
+  allow_control:
+    name: Allow control
+    description: Allow toggling lights, switches, lock, climate, media etc. (whitelisted services only).
+  sidebar:
+    name: Sidebar variant (tablet/desktop)
+    description: "a = slim glass rail, b = expanded with rooms & status, c = widget column. Override via ?sidebar=a|b|c."
